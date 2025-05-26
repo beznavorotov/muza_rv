@@ -11,10 +11,10 @@ export default function ServicesSection() {
       shortDescription:
         "Transform your look with our expert hair styling services.",
       image:
-        "./../public/images/servise/4.jpg",
+        "./images/servise/4.jpg",
       images: [
-        "./../public/images/servise/1.jpg",
-        "./../public/images/servise/1_1.jpg",
+        "./images/servise/1.jpg",
+        "./images/servise/1_1.jpg",
       ],
       description:
         "Our skilled stylists offer a range of hair services including cutting, coloring, highlighting, and styling. We use premium products to ensure your hair looks and feels its best. Whether you're looking for a complete transformation or a subtle change, our team will work with you to achieve the perfect look that complements your features and lifestyle.",
@@ -43,10 +43,10 @@ export default function ServicesSection() {
       shortDescription:
         "Complete your look with our professional nail care services.",
       image:
-        "./../public/images/servise/5.jpg",
+        "./images/servise/5.jpg",
       images: [
-        "./../public/images/servise/5.jpg",
-        "./../public/images/servise/2.jpg",
+        "./images/servise/5.jpg",
+        "./images/servise/2.jpg",
       ],
       description:
         "Our nail care services include manicures, pedicures, gel polish, nail extensions, and nail art. Our technicians are skilled in the latest techniques and trends, ensuring your nails look flawless. We prioritize hygiene and use high-quality products for long-lasting results. Relax in our comfortable chairs while we pamper your hands and feet.",
@@ -59,10 +59,10 @@ export default function ServicesSection() {
       shortDescription:
         "Indulge in our luxurious body treatments for ultimate relaxation.",
       image:
-        "./../public/images/servise/3.jpg",
+        "./images/servise/3.jpg",
       images: [
-        "./../public/images/servise/3.jpg",
-        "./../public/images/servise/3_3.jpg",
+        "./images/servise/3.jpg",
+        "./images/servise/3_3.jpg",
       ],
       description:
         "Our body treatments include massages, scrubs, wraps, and waxing services. Each treatment is designed to relax, rejuvenate, and restore your body. Our therapists are trained to address tension, improve circulation, and promote overall wellness. Experience the therapeutic benefits of our carefully selected oils and products that nourish your skin and soothe your senses.",
